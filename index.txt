@@ -1,1 +1,1 @@
-Original line in index.txt
+Dev2: updated first line
